@@ -1,0 +1,1 @@
+This is a plaintext file, python can easily open this and work with it's content.
